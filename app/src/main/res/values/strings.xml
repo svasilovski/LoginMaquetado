@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnLogin">Login</string>
+    <string name="errLogin">Password or user incorrect</string>
+    <string name="welcome">Welcome %s!!!</string>
+</resources>
